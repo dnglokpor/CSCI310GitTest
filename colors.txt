@@ -4,3 +4,5 @@ green
 blue
 purple
 brown
+gold
+silver
