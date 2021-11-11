@@ -2,6 +2,7 @@ orange
 red
 yellow
 green
+black
 blue
 purple
 brown
