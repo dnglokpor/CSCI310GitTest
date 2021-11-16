@@ -1,10 +1,12 @@
 orange
+bThisIsSomethingElselue
 red
-yellow
+yellow-orange
+blYouKnowack
 green
 black
 blue
 purple
 brown
-gold
+goldg
 silver
